@@ -1,6 +1,7 @@
 
 # korovi
  [![Build Status](https://travis-ci.com/GlidingRaven/korovi.svg?branch=master)](https://travis-ci.com/GlidingRaven/korovi)
+ [![Build Status](https://travis-ci.com/GlidingRaven/korovi.svg?branch=travis-version)](https://travis-ci.com/GlidingRaven/korovi)
 Реализация классической игры "Быки и коровы".
 Общение происходит через интерфейс командной строки (CLI).
 
